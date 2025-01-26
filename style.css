@@ -37,7 +37,7 @@ body {
     margin: 20px 10px;
   }
   .profile-card .p{
-    color: yellow;
+    color: hsl(75, 94%, 57%);
   }
 
   .profile-card a {
@@ -52,7 +52,7 @@ body {
   }
 
   .profile-card a:hover {
-    background-color: #777;
+    background-color: hsl(75, 94%, 57%);
   }
 
   /* Responsive Design */
